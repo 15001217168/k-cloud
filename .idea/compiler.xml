@@ -11,6 +11,7 @@
         <module name="k-cloud-master" />
         <module name="k-cloud-ribbon" />
         <module name="k-cloud-server" />
+        <module name="k-cloud-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
